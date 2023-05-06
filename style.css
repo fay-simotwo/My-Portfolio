@@ -83,6 +83,7 @@ body{
 }
 .summary-row h1 {
     margin-left: 500px;
+    text-decoration: underline;
     
 }
 .skills-column {
@@ -107,4 +108,18 @@ body{
     font-weight:bolder;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration:underline;
+}
+
+.contact-column {
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+.form {
+    float: left;
+    width: 50%;
+    margin-left: 100px;
+}
+.contact-column h3 {
+    text-align: center;
 }
