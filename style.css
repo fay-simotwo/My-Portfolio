@@ -80,6 +80,7 @@ body{
     margin-top: 80px;
     color: wheat;
     border: 3px solid white;
+    text-align: center;
 }
 .summary-row h1 {
     margin-left: 500px;
@@ -174,3 +175,10 @@ button {
     margin-left: 50px;
     text-align: left;
 }
+.centerr{
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+
