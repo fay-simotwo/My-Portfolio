@@ -90,7 +90,11 @@ body{
     float: left;
     width: 50%;
 }
-li {
+.skills-column li {
+    list-style: none;
+    text-align: center;
+}
+.summary-column li {
     list-style: none;
     text-align: center;
 }
