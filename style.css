@@ -77,6 +77,11 @@ body{
 }
 
 .summary-row {
-    margin-left: 50%;
-    margin-top: 110px;
+    margin-top: 80px;
+    color: wheat;
+    border: 3px solid white;
+}
+.summary-row h1 {
+    margin-left: 500px;
+    
 }
