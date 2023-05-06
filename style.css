@@ -35,6 +35,21 @@ h3{
 body{
         background-color: rgb(21, 81, 119);
     }
+    .text{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform:translate(60, 60%);
+        font-style: italic;
+        font-family:"lucida Console", "Courier New", monospace;
+        font-size:xx-large;
+        font-weight: 700;
+        color: rgb(253, 107, 16);   
+        text-align: center; 
+        
+    
+    }
+    
         
     
     
