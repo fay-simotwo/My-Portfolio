@@ -117,9 +117,19 @@ body{
 }
 .form {
     float: left;
-    width: 50%;
+    width: 30%;
     margin-left: 100px;
 }
 .contact-column h3 {
     text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+textarea {
+    width: 100%;
+    
 }
