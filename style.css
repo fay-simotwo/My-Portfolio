@@ -75,3 +75,8 @@ body{
 .about h3 {
     margin-left: 60px;
 }
+
+.summary-row {
+    margin-left: 50%;
+    margin-top: 110px;
+}
