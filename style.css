@@ -183,8 +183,17 @@ button {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .text{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
-.socials{
 
-    
+li img {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    list-style: none;
+    padding: 3px;
+    margin-left: 10px;
 }
-
+.socials {
+    list-style: none;
+    display: inline;
+}
